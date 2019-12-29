@@ -1,0 +1,26 @@
+.App{
+  text-align: center;
+  display:flex;
+}
+.result{
+  height: 0px;
+  background-color: #bbb;
+  width:100px;
+
+}
+.result p{
+   font-size: 40px;
+}
+.calci-body{
+  max-width: 400px;
+  margin:auto;
+}
+.Buttons{
+  display:block;
+  background-color: #bbb;
+}
+.Buttons Button{
+  width:25%;
+  height:40px;
+  font-size: 30px;
+}
